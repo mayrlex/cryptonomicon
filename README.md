@@ -1,6 +1,8 @@
 # cryptonomicon
 
-Front-end web application that allows users to add cryptocurrencies and track their price dynamics relative to the US dollar. The dashboard provides a clean and responsive interface for monitoring cryptocurrency prices in real time.
+Front-end web application that allows users to add cryptocurrencies and track their price dynamics relative to the US dollar.
+
+The dashboard provides a clean and responsive interface for monitoring cryptocurrency prices in real time.
 
 ---
 
@@ -63,12 +65,4 @@ npm run format  # Format code with Prettier
 
 ```bash
 npm run type-check
-```
-
----
-
-## Run the app
-
-```bash
-npm run build
 ```
